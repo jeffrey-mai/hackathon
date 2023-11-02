@@ -11,11 +11,11 @@ toggleBtn.addEventListener("click", () => {
   darkMode = !darkMode
   console.log(darkMode)
   if (!darkMode) {
-    toggleBtn.innerText = "Light Mode"
+    toggleBtn.innerText = "Dark Mode"
     document.body.style.backgroundColor = "white"
     document.body.style.color = "black"
   } else {
-    toggleBtn.innerText = "Dark Mode"
+    toggleBtn.innerText = "Light Mode"
     document.body.style.backgroundColor = "#1e1e1e"
     document.body.style.color = "white"
   }

@@ -5,6 +5,6 @@
   "version": "1.0",
   "action": {
     "default_popup": "index.html",
-    "default_icon": "https://www.dropbox.com/scl/fi/ljmv5uq3jiqz4msksqais/smile-face.png?rlkey=kfsc3f13ncvq5lgwwkwvrh4om&dl=0"
+    "default_icon": "hiLogo.png"
   }
 }
